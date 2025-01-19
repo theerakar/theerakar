@@ -9,7 +9,7 @@
 - **Cybersecurity Tools**: Wireshark, Nmap, Kali Linux, Burp Suite  
 - **Platforms**: Windows, Linux, AWS  
 
-🌱 **Currently Learning**: Advanced Penetration Testing and Web Application Security  
+🌱 **Currently Learning**:  Penetration Testing and Web Application Security  
 
 ## About Me
 I am an enthusiastic and motivated individual pursuing a BSc (Hons) in Cybersecurity at the University of Staffordshire. My passion lies in safeguarding digital ecosystems and creating innovative IT solutions. With hands-on experience in cybersecurity tools and programming, I excel at identifying vulnerabilities, configuring secure systems, and developing user-friendly applications.
